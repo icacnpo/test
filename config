@@ -4,5 +4,5 @@
 	bare = false
 	logallrefupdates = true
 [remote "origin"]
-	url = https://icacnpo:@github.com/icacnpo/yt.git
+	url = https://icacnpo:@github.com/icacnpo/test.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
